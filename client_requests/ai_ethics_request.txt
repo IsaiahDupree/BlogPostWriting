@@ -1,0 +1,26 @@
+AI Ethics: Navigating the Moral Landscape of Artificial Intelligence
+Posted April 26, 2025
+We're looking for a comprehensive guide on AI ethics that educates our technically-minded audience about the moral considerations of developing and deploying AI systems.
+
+This project involves writing an authoritative blog post that addresses key ethical considerations in AI, outperforming leading articles on AI ethics such as:
+
+1. https://www.ibm.com/topics/ai-ethics
+2. https://www.forbes.com/sites/bernardmarr/2023/04/18/the-7-biggest-ethical-challenges-of-artificial-intelligence/
+3. https://www.weforum.org/agenda/2023/10/artificial-intelligence-ai-ethics-guidelines/
+
+Deliverables
+- A comprehensive long-form blog article (2500+ words) that delivers more depth than the examples above
+- Clear sections addressing key AI ethics principles including fairness, transparency, privacy, and accountability
+- Practical frameworks and guidelines for implementing ethical AI practices
+- Discussion of real-world ethical dilemmas and case studies
+- Illustrations or visual examples of ethical decision frameworks for designers
+- Quality video embeds explaining complex ethical concepts
+- A brief strategy memo explaining how this content stands out from competitors
+
+Requirements
+- Proven understanding of both technical AI concepts and ethical frameworks
+- Strong grasp of current trends and developments in AI ethics regulation
+- Ability to explain complex ethical dilemmas in accessible language
+- Include practical guidance for developers and leaders
+- Present balanced perspectives on controversial topics
+- Strong use of real-world examples and case studies

@@ -1,0 +1,28 @@
+Blockchain and DeFi: Understanding the Future of Finance
+Posted April 26, 2025
+We're seeking a detailed, technically accurate guide on blockchain technology and decentralized finance (DeFi) that explains these concepts to a technically-savvy audience interested in the future of financial systems.
+
+This project requires creating a definitive resource that outperforms the following articles in breadth, depth, and technical accuracy:
+
+1. https://ethereum.org/en/defi/
+2. https://www.investopedia.com/decentralized-finance-defi-5113835
+3. https://www.mckinsey.com/industries/financial-services/our-insights/decentralized-finance-on-crypto-rails
+
+Deliverables
+- A comprehensive guide (3000+ words) on blockchain fundamentals and DeFi applications
+- Clear explanation of key concepts including smart contracts, liquidity pools, yield farming, and tokenomics
+- Analysis of major DeFi protocols and their architectural differences
+- Discussion of security considerations and common vulnerabilities
+- Exploration of regulatory challenges and emerging compliance frameworks
+- Diagrams illustrating key blockchain and DeFi concepts and workflows
+- Visual comparison of traditional finance vs. DeFi systems
+- Video embeds demonstrating key DeFi interactions or explaining complex concepts
+- Future outlook on the evolution of decentralized financial systems
+
+Requirements
+- Deep technical understanding of blockchain technology and DeFi protocols
+- Ability to explain complex technical concepts accurately yet accessibly
+- Up-to-date knowledge of the current DeFi landscape and major protocols
+- Balanced discussion of benefits, risks, and limitations
+- Inclusion of code examples or technical details where appropriate
+- Focus on fundamentals while acknowledging cutting-edge developments

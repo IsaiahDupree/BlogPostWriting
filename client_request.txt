@@ -1,0 +1,40 @@
+natural language processing (NLP) blog post writing
+Posted yesterday
+We're looking for a skilled freelance writer to help us create compelling, educational, and competitive top-of-funnel (TOFU) content focused on AI and Natural Language Processing (NLP).
+
+This project involves writing a comprehensive, high-ranking blog post that outperforms leading articles on NLP in both quality and depth—notably those by:
+
+1. https://aws.amazon.com/what-is/nlp/
+2. https://www.ibm.com/think/topics/natural-language-processing
+3. https://www.techtarget.com/searchenterpriseai/definition/natural-language-processing-NLP
+
+Deliverables
+- A long-form blog article that delivers more value than the examples above
+- A compelling outline, SEO-optimized title/H1/meta tags, and structured subheadings
+- Clear, engaging, and accurate explanations of NLP fundamentals and surrounding topics such as use cases, etc.
+- Illustrations or visual examples for designers' inspiration.
+- Quality video embeds that enhance learning and time-on-page
+- A brief strategy memo explaining:
+1. How your content will outperform the examples above
+2. What unique angles or value it adds
+3. Any novel structure or formatting elements
+
+Requirements
+- Proven experience writing about AI, machine learning, or NLP
+- Strong grasp of SEO fundamentals, including E-E-A-T (Experience, Expertise, Authoritativeness, Trustworthiness)
+- Ability to simplify complex technical topics while maintaining accuracy
+- Familiarity with NLP tools, models, frameworks (e.g. transformers, LLMs, BERT, etc.)
+- Fluent, concise, and engaging writing style
+
+Bonus Points
+- Experience collaborating with marketing or growth teams
+- Understanding of AI agent frameworks, prompt engineering, or orchestration
+- Demonstrated success ranking content in SERPs
+
+🔎 To Apply
+Please include:
+
+2–3 writing samples on AI/NLP or similar technical topics
+A short explanation of how you would approach this post to beat the competition
+
+Your rate and availability
